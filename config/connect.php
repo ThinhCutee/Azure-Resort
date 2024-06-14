@@ -1,3 +1,3 @@
 <?php 
-    $conn = mysqli_connect("localhost:3307","root","","khunghiduong");
+    $conn = mysqli_connect("localhost","root","","khunghiduong");
     mysqli_set_charset($conn, "utf8");
