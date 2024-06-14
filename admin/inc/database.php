@@ -2,7 +2,7 @@
 // Kết nối đến cơ sở dữ liệu
 include("essentials.php");
 function connect() {
-    $host = 'localhost:3307';
+    $host = 'localhost';
     $db_name = 'khunghiduong';
     $username = 'root';
     $password = '';
